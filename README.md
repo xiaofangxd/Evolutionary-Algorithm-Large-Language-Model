@@ -5,7 +5,7 @@
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. Multi-Task Learning as Multi-Objective Optimization | NIPS | 2018 | _Sener et al._ | [[paper](https://arxiv.org/pdf/1810.04650.pdf)] [[code](https://github.com/isl-org/MultiObjectiveOptimization)] | [[blog](https://zhuanlan.zhihu.com/p/352461938)] |
+| 1. Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers | arXiv | 2023 | _Guo et al._ | [[paper](https://arxiv.org/abs/2309.08532)] |  |
 
 
 **Disclaimer**
